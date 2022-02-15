@@ -1,4 +1,5 @@
 Video Game,Year Updated,Month Updated,Release Year,Client,Launch Options,What it Does,Notes
+Bioshock Remastered,2022,February,2016,Steam, Paste the following into Steam Launch Options | -nointro,Skips intro movies/logo.,X
 Borderlands 2,2022,February,2012,Steam,Paste the following into Steam Launch Options | -nolauncher -nostartupmovies,Launches game without the launcher that preceeds the launching of the game + skips intro logos.,X
 Borderlands: The Pre-Sequel,2022,February,2014,Steam,Paste the following into Steam Launch Options | -nolauncher -nostartupmovies,Launches game without the launcher that preceeds the launching of the game + skips intro logos.,X
 Counter-Strike: Global Offensive,2022,January,2012,Steam,Paste the following into Steam Launch Options | -tickrate 128 +fps_max 0 -novid -nojoy,Sets tickrate of bot matches to 128 (not 64) + unlocks framerate + skips intro logo and disables joystick support which may benefit performance.,THere are more optimisations but they vary wildly in benefit for different people. Go to https://totalcsgo.com/launch-options and see what works for you. The launch options here should benefit everyone universally.
