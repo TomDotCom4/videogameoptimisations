@@ -1,5 +1,6 @@
 Video Game,Year Updated,Month Updated,Release Year,Client,Launch Options,What it Does,Notes
-Bioshock Remastered,2022,February,2016,Steam, Paste the following into Steam Launch Options | -nointro,Skips intro movies/logo.,X
+Bioshock Remastered,2022,February,2016,Steam,Paste the following into Steam Launch Options | -nointro,Skips intro movies/logo.,X
+Bioshock 2 Remastered,2022,April,2016,Steam,Paste the following into Steam Launch Options | -nointro,Skips intro movies/logo.,X
 Borderlands 2,2022,February,2012,Steam,Paste the following into Steam Launch Options | -nolauncher -nostartupmovies,Launches game without the launcher that preceeds the launching of the game + skips intro logos.,X
 Borderlands: The Pre-Sequel,2022,February,2014,Steam,Paste the following into Steam Launch Options | -nolauncher -nostartupmovies,Launches game without the launcher that preceeds the launching of the game + skips intro logos.,X
 Cities: Skylines,2022,February,2015,Steam,Visit the following link for various tutorials on how to disable the Paradox Launcher that launches before the game | https://steamcommunity.com/sharedfiles/filedetails/?id=1976349559, including the ability to replace the launcher with a FOSS lightweight launcher.,X
