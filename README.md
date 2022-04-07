@@ -1,4 +1,4 @@
-## Video Game Optimisations
+# Video Game Optimisations
 
 This is a place where you can publish various "optimisations" for videogames. 
 
