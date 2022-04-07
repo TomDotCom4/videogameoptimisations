@@ -4,7 +4,8 @@ This is a place where you can publish various "optimisations" for videogames.
 
 ### Steam Launch Options
 
-This table is for putting launch options into Steam games to make the game behave in certain ways. 
+This table is for putting launch options into Steam games to make the game behave in certain ways. If you don't know how to do this, it is very simple. Here is a 1 minute video explaining this, timestamped to the correct place in the video where the tutorial starts.
+[YouTube](https://youtu.be/nDtL69K5Hd8?t=19) | [Piped](https://piped.kavin.rocks/watch?v=nDtL69K5Hd8&t=19s)
 
 | **Video Game** | **Release Year** | **Month Verified** | **Year Verified** | **Launch Options** | What does it do? | Notes |
 |----------------|------------------|--------------------|-------------------|--------------------|------------------|-------|
