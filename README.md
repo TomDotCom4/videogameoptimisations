@@ -1,6 +1,6 @@
 # Video Game Optimisations
 
-This is a place where you can publish various "optimisations" for videogames. 
+This is a place where you can publish various "optimisations" for videogames. If you want to search for a specific game in the list, you will have to use Ctrl + F on this page and search for the game title that way. Keep in mind it does have to be typed out almost exactly (e.g. when searching for Counter-Strike: Global Offensive, "csgo" or "counter strike" won't yield results, but searching "counter-strike" with the hyphen will work).
 
 ### Steam Launch Options
 
