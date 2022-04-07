@@ -10,3 +10,4 @@ This is a place where you can publish various "optimisations" for videogames.
 | BioShock Remastered| 2016 | February | 2022 | -nointro | Skips logos before game launch. | X |
 | BioShock 2 | 2010 | April | 2022 | -nointro | Skips logos before game launch. | X |
 | BioShock 2 Remastered | 2016 | April | 2022 | -nointro | Skips logos before game launch. | X |
+| Borderlands 2 | 2012 | February | 2022 |  -nolauncher -nostartupmovies | Skips launcher and logos that usually appear on launch. | X |
