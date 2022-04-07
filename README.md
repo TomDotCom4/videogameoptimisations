@@ -17,3 +17,5 @@ This is a place where you can publish various "optimisations" for videogames.
 Portal | 2007 |	January	| 2022 | -novid |	Skips intro logo.	| Likely works on most Valve Games. |
 Portal 2 | 2011 |	January	| 2022 | -novid |	Skips intro logo.	| Likely works on most Valve Games. |
 SimCity 4: Deluxe Edition | 2004 |	January	| 2022 |  -CustomResolution:enabled -r1920x1080x32 -intro:off -CPUPriority:high -CPUCount:2 |	Sets the resolution to 1080p + Sets colour depth to 32 bit + Skips intro logo sequence + forces the game to only use 2 CPU cores. | SimCity 4 Deluxe is an old game hence all the things that need to be done. These instructions may not work for you. If you want more explanation for the changes or alterations that might work better for your hardware (e.g. changing 1920x1080 in the launch options to the resolution of your display) go to https://steamcommunity.com/sharedfiles/filedetails/?id=279736936 and check it out. |
+Team Fortress 2 | 2007 |	January	| 2022 | -novid |	Skips intro logo.	| Likely works on most Valve Games. |
+Tomb Raider	| 2013 | April | 2022 | -nolauncher | Skips launcher before the game starts. | X |
